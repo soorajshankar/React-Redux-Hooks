@@ -1,0 +1,4 @@
+export const LOGIN_VIEWMODES = {
+  LOGIN: "LOGIN",
+  REGISTER: "REGISTER"
+};
